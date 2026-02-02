@@ -40,11 +40,6 @@ export default function Home() {
             Focused on building scalable, high-performance applications and reliable deployment pipelines using AWS, Azure, Docker, and CI/CD.
           </p>
         </div>
-        <div className="flex gap-4">
-          <a href="https://www.linkedin.com/in/miguel-isaza-923a15253/" target="_blank" rel="noopener noreferrer" className="px-6 py-3 border border-terracotta text-terracotta rounded hover:bg-terracotta hover:text-cream transition font-mono text-sm font-semibold">
-            Linkedin
-          </a>
-        </div>
       </section>
 
       {/* About Section */}
